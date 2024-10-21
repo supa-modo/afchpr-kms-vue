@@ -1,0 +1,296 @@
+[
+  {
+    "title": "Report on Lorem ipsum dolor sit amet consectetur",
+    "author": "John Smith Doe",
+    "originalLanguage": "English",
+    "translations": ["SW", "ENG", "FR", "SP", "AR", "PT"],
+    "category": "Report",
+    "uploadDate": "September 23, 2024",
+    "tags": ["report", "case files", "memo", "legal"],
+    "file": "pdf"
+  },
+  {
+    "title": "Annual Financial Report and Analysis for the Year 2023",
+    "file": "pdf",
+    "tags": ["finance", "annual", "report", "budget", "growth", "forecasting"],
+    "author": "John Doe",
+    "originalLanguage": "English",
+    "translations": ["FR", "SP", "PT"],
+    "category": "Report",
+    "uploadDate": "February 15, 2023"
+  },
+  {
+    "title": "Internal Memo on Policy Updates for Workplace Conduct",
+    "file": "word",
+    "tags": ["memo", "policy", "workplace", "conduct"],
+    "author": "Jane Smith",
+    "originalLanguage": "English",
+    "translations": ["FR", "AR", "SW"],
+    "category": "Report",
+    "uploadDate": "April 04, 2024"
+  },
+  {
+    "title": "Q1 Sales Data and Performance Review Excel Sheet",
+    "file": "excel",
+    "tags": ["sales", "Q1", "performance", "excel", "revenue", "growth"],
+    "author": "Michael Johnson",
+    "originalLanguage": "Swahili",
+    "translations": ["ENG", "FR"],
+    "category": "Report",
+    "uploadDate": "January 30, 2011"
+  },
+  {
+    "title": "Marketing Strategy Overview and Campaign Plan 2024",
+    "file": "ppt",
+    "tags": ["marketing", "strategy", "campaign", "ppt"],
+    "author": "Emily Watson",
+    "originalLanguage": "French",
+    "translations": ["ENG", "SP", "AR"],
+    "category": "Report",
+    "uploadDate": "March 27, 2024"
+  },
+  {
+    "title": "Environmental Impact Assessment Report for New Project",
+    "file": "pdf",
+    "tags": [
+      "environment",
+      "impact",
+      "assessment",
+      "project",
+      "report",
+      "sustainability"
+    ],
+    "author": "David Lee",
+    "originalLanguage": "English",
+    "translations": ["FR", "PT", "SP"],
+    "category": "Report",
+    "uploadDate": "May 25, 2022"
+  },
+  {
+    "title": "Client Meeting Notes - September 2024",
+    "file": "word",
+    "tags": ["meeting", "client", "notes", "discussion", "follow-up"],
+    "author": "Alexandra Green",
+    "originalLanguage": "English",
+    "translations": ["FR", "SW", "SP"],
+    "category": "Report",
+    "uploadDate": "September 20, 2024"
+  },
+  {
+    "title": "Company Budget and Financial Planning Overview for 2025",
+    "file": "excel",
+    "tags": ["budget", "financial", "planning", "forecast", "analysis"],
+    "author": "Thomas Brown",
+    "originalLanguage": "Portuguese",
+    "translations": ["ENG", "SP", "FR"],
+    "category": "Report",
+    "uploadDate": "August 08, 2010"
+  },
+  {
+    "title": "Executive Presentation - Year End Review 2023",
+    "file": "ppt",
+    "tags": ["executive", "review", "presentation", "performance", "ppt"],
+    "author": "Rachel Adams",
+    "originalLanguage": "French",
+    "translations": ["ENG", "SP"],
+    "category": "Report",
+    "uploadDate": "February 28, 2024"
+  },
+  {
+    "title": "Human Resources Policy Handbook 2024 Edition",
+    "file": "word",
+    "tags": ["HR", "policy", "handbook", "2024", "regulations"],
+    "author": "Samuel Harris",
+    "originalLanguage": "English",
+    "translations": ["FR", "AR", "SW"],
+    "category": "Report",
+    "uploadDate": "June 10, 2023"
+  },
+  {
+    "title": "Regional Sales Report and Analysis Q2 2024",
+    "file": "pdf",
+    "tags": ["sales", "Q2", "analysis", "report", "growth"],
+    "author": "Olivia White",
+    "originalLanguage": "Spanish",
+    "translations": ["ENG", "FR"],
+    "category": "Report",
+    "uploadDate": "July 07, 2023"
+  },
+  {
+    "title": "Team Building Event Summary and Feedback",
+    "file": "word",
+    "tags": ["team", "event", "feedback", "summary"],
+    "author": "Chris Parker",
+    "originalLanguage": "English",
+    "translations": ["FR", "SP"],
+    "category": "Report",
+    "uploadDate": "April 14, 2023"
+  },
+  {
+    "title": "IT Infrastructure Plan and Proposal for 2025",
+    "file": "ppt",
+    "tags": ["IT", "infrastructure", "plan", "proposal", "ppt", "2025"],
+    "author": "Sandra Lewis",
+    "originalLanguage": "Portuguese",
+    "translations": ["ENG", "FR", "SP"],
+    "category": "Report",
+    "uploadDate": "September 20, 2024"
+  },
+  {
+    "title": "Quarterly Product Development Overview Q3 2024",
+    "file": "pdf",
+    "tags": [
+      "product",
+      "development",
+      "overview",
+      "Q3",
+      "progress",
+      "innovation"
+    ],
+    "author": "Nancy Rivera",
+    "originalLanguage": "French",
+    "translations": ["ENG", "SP"],
+    "category": "Report",
+    "uploadDate": "August 23, 2024"
+  },
+  {
+    "title": "Risk Management Strategy Document",
+    "file": "word",
+    "tags": ["risk", "management", "strategy", "word"],
+    "author": "Gregory Scott",
+    "originalLanguage": "English",
+    "translations": ["SW", "FR"],
+    "category": "Report",
+    "uploadDate": "March 27, 2024"
+  },
+  {
+    "title": "Board Meeting Presentation - Strategic Plans for 2024-2025",
+    "file": "ppt",
+    "tags": ["board", "presentation", "strategy", "plans", "ppt"],
+    "author": "Rebecca Morgan",
+    "originalLanguage": "English",
+    "translations": ["FR", "SP", "AR"],
+    "category": "Report",
+    "uploadDate": "October 05, 2024"
+  },
+  {
+    "title": "Financial Analysis for Q1 2024",
+    "author": "Jane Doe",
+    "originalLanguage": "Swahili",
+    "translations": ["ENG", "FR"],
+    "category": "Report",
+    "uploadDate": "August 14, 2024",
+    "tags": ["finance", "analysis", "quarterly"],
+    "file": "excel"
+  },
+  {
+    "title": "Financial Analysis for Q1 2024",
+    "author": "Jane Doe",
+    "originalLanguage": "Swahili",
+    "translations": ["ENG", "FR"],
+    "category": "Report",
+    "uploadDate": "August 14, 2024",
+    "tags": ["finance", "analysis", "quarterly"],
+    "file": "excel"
+  },
+  {
+    "title": "Marketing Strategy for 2024",
+    "author": "Alice Johnson",
+    "originalLanguage": "French",
+    "translations": ["ENG", "AR", "PT"],
+    "category": "Report",
+    "uploadDate": "July 05, 2024",
+    "tags": ["marketing", "strategy", "plan"],
+    "file": "ppt"
+  },
+  {
+    "title": "Legal Case Studies 2024",
+    "author": "Mark Anthony",
+    "originalLanguage": "Spanish",
+    "translations": ["ENG", "SW"],
+    "category": "Report",
+    "uploadDate": "June 19, 2024",
+    "tags": ["legal", "case files", "studies"],
+    "file": "word"
+  },
+  {
+    "title": "Project Report for X Corporation",
+    "author": "Maria Sanchez",
+    "originalLanguage": "Portuguese",
+    "translations": ["ENG", "SP"],
+    "category": "Report",
+    "uploadDate": "May 10, 2024",
+    "tags": ["project", "report", "corporate"],
+    "file": "pdf"
+  },
+  {
+    "title": "Project Report for X Corporation",
+    "author": "Maria Sanchez",
+    "originalLanguage": "Portuguese",
+    "translations": ["ENG", "SP"],
+    "category": "Report",
+    "uploadDate": "May 10, 2024",
+    "tags": ["project", "report", "corporate"],
+    "file": "pdf"
+  },
+  {
+    "title": "Legal Case Studies 2024",
+    "author": "Mark Anthony",
+    "originalLanguage": "Spanish",
+    "translations": ["ENG", "SW"],
+    "category": "Report",
+    "uploadDate": "June 19, 2024",
+    "tags": ["legal", "case files", "studies"],
+    "file": "word"
+  },
+  {
+    "title": "Financial Analysis for Q1 2024",
+    "author": "Jane Doe",
+    "originalLanguage": "Swahili",
+    "translations": ["ENG", "FR"],
+    "category": "Report",
+    "uploadDate": "August 14, 2024",
+    "tags": ["finance", "analysis", "quarterly"],
+    "file": "excel"
+  },
+  {
+    "title": "Financial Analysis for Q1 2024",
+    "author": "Jane Doe",
+    "originalLanguage": "Swahili",
+    "translations": ["ENG", "FR"],
+    "category": "Report",
+    "uploadDate": "August 14, 2024",
+    "tags": ["finance", "analysis", "quarterly"],
+    "file": "excel"
+  },
+  {
+    "title": "Marketing Strategy for 2024",
+    "author": "Alice Johnson",
+    "originalLanguage": "French",
+    "translations": ["ENG", "AR", "PT"],
+    "category": "Report",
+    "uploadDate": "July 05, 2024",
+    "tags": ["marketing", "strategy", "plan"],
+    "file": "ppt"
+  },
+  {
+    "title": "Project Report for X Corporation",
+    "author": "Maria Sanchez",
+    "originalLanguage": "Portuguese",
+    "translations": ["ENG", "SP"],
+    "category": "Report",
+    "uploadDate": "May 10, 2024",
+    "tags": ["project", "report", "corporate"],
+    "file": "pdf"
+  },
+  {
+    "title": "Project Report for X Corporation",
+    "author": "Maria Sanchez",
+    "originalLanguage": "Portuguese",
+    "translations": ["ENG", "SP"],
+    "category": "Report",
+    "uploadDate": "May 10, 2024",
+    "tags": ["project", "report", "corporate"],
+    "file": "pdf"
+  }
+]
